@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm Abdelrahim, a passionate developer, lifelong l
 ## 📫 How to Reach Me
 
 - **Email:** [habderrahim@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/habderrahim)
-- **Twitter:** [@yourhandle](https://twitter.com/habderrahim)
+- **LinkedIn:** [habderrahim](https://www.linkedin.com/in/habderrahim)
+- **Twitter:** [@habderrahim](https://twitter.com/habderrahim)
 
 ## 🗂️ Projects
 

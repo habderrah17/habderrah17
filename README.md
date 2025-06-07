@@ -1,6 +1,6 @@
-# Hi there, I'm Abdelrahman 👋
+# Hi there, I'm Abdelrahim 👋
 
-Welcome to my GitHub profile! I'm Abdelrahman, a passionate developer, lifelong learner, and tech enthusiast. Here you'll find my projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub profile! I'm Abdelrahim, a passionate developer, lifelong learner, and tech enthusiast. Here you'll find my projects, experiments, and contributions to the open-source community.
 
 ## 🚀 About Me
 
@@ -11,20 +11,20 @@ Welcome to my GitHub profile! I'm Abdelrahman, a passionate developer, lifelong 
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, [add your favorites!]
-- **Frameworks/Libraries:** [Add frameworks you use: e.g., React, Django, Node.js]
+- **Languages:** Python, JavaScript, ...
+- **Frameworks/Libraries:** React, Django, Node.js
 - **Tools:** Git, GitHub, VS Code, Linux
 - **Interests:** Web development, automation, data analysis, open-source
 
 ## 📈 GitHub Stats
 
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habderrah17&show_icons=true&hide_title=true)
+![Abdelrahim GitHub Stats](https://github-readme-stats.vercel.app/api?username=habderrah17&show_icons=true&hide_title=true)
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [habderrahim@gmail.com]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/habderrahim)
+- **Twitter:** [@yourhandle](https://twitter.com/habderrahim)
 
 ## 🗂️ Projects
 
